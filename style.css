@@ -108,7 +108,7 @@ body{
 .card-1,
 .card-2,
 .card-3{
-    border-top: 8px rgb(69, 69, 69);
+    border-top: 5px rgb(69, 69, 69);
     padding: 50px;
 }
 
@@ -160,8 +160,7 @@ body{
 }
 
 .desc-2{
-    padding-right: 20px;
-    padding-right: 80px;
+    margin-left: 120px;
 }
 
 .card-3{
